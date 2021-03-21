@@ -1,0 +1,14 @@
+REVISAR
+
+Ver resultado final e tentar copiar
+
+capitulo 2:
+Componente: sumamry
+
+obs: no modal necessita de useState, funcao para abrir e outra para fechar o modal, dpos colocaro modal em onClick e dps o componente modal em qualquer part passando a propriedade isOpen com o valor de variavel no useState e depois onRequestClose
+
+
+
+
+react passar props de pai para filho	para alterar
+insight: criar funcao primeiro dentro do componente e depois passar por props
